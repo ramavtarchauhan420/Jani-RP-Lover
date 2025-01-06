@@ -175,7 +175,7 @@ queue_7 : "\n❖ ᴄʟɪᴄᴋ ση ʙυᴛᴛση ʙєʟσᴡ ᴛσ ɢєᴛ ᴡ
 queue_8 : "❖ <b>{0} ᴘʟᴧʏєʀ</b>\n\n❖ <b>sᴛʀєᴧϻɪηɢ :</b> {1}\n\n❖ <b>sᴛʀєᴧϻ ᴛʏᴘє :</b> {2}\n❖ <b>ʀєǫυєsᴛєᴅ ʙʏ :</b> {3}\n❖ {4}"
 
 stream_1 :"<b><blockquote>❖ 【◖ 𝗖υτє 𝗠𝗎s𝗌υ◗ 】• ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ ᴛɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ ᴛɪϻє ➥</b> {2} ϻɪηυᴛєs \n<b>❍ ʙʏ ➥</b> {3}<b></blockquote>\n\n<b>❖ ϻᴧᴅє ʙʏ  ➛ [ɪsᴛᴋʜᴀʀ xᴅ](https://t.me/THUNDERDEVS)</b>"
-stream_2 :"<b><blockquote>❖ 【◖ 𝗖υτє 𝗠𝗎s𝗌υ◗ 】• ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n❍ sᴛʀєᴧϻ ᴛʏᴘє ➥</b> ʟɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>❍ ʙʏ ➥</b> {0}"
+stream_2 :"<b><blockquote>❖ 【◖ 𝗖υτє 𝗠𝗎s𝗌υ◗ 】• ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ sᴛʀєᴧϻ ᴛʏᴘє ➥</b> ʟɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>❍ ʙʏ ➥</b> {0}</blockquote>"
 
 
 CLOSE_BUTTON  : "🥂 ᴄʟᴏsᴇ 🥂"
