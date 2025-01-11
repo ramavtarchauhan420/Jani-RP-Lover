@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-ISTKHAR &repo=PURVI_MUSIC&theme=flag-india)
+![Readme Card](https://github.com/TEAM-ISTKHAR-readme-stats.vercel.app/api/pin/?username=TEAM-ISTKHAR &repo=PURVI_MUSIC&theme=flag-india)
 
 [![GIF](https://github.com/TEAM-ISTKHAR/MUSARRAT/blob/main/TEAM-ISTKHAR.gif)](https://github.com/TEAM-ISTKHAR)
    [![ISTKHAR](https://github-stats-alpha.vercel.app/api?username=TEAM-ISTKHAR "ISTKHAR")](https://github-stats-alpha.vercel.app/api?username=TEAM-ISTKHAR "ISTKHAR")
