@@ -1,27 +1,27 @@
-# 𝗦𝗢𝗡𝗔𝗟𝗜-𝗠𝗨𝗦𝗜𝗖 
+# 𝗣𝗨𝗥𝗩𝗜-𝗠𝗨𝗦𝗜𝗖 
 ➥ 𝖧ᴇʀᴏᴋᴜ 𝖭ᴇᴡ 𝖤ʀʀᴏʀ 𝖥ɪxᴇᴅ 𝖱ᴇᴘᴏ 𝖣ᴇᴘʟᴏʏ 𝖭ᴏᴡ ✔️ 
  ➥ 𝖥ɪʀsᴛ 𝖥ᴏʀᴋ 𝖳ʜɪs 𝖱ᴇʀᴏ 𝖠ɴᴅ 𝖦ɪᴠᴇ ᴀ 𝖲ᴛᴀʀ ⭐
   ➥ 𝖳ʜᴇɴ ʜᴏsᴛ ᴏɴ ʜᴇʀᴋᴏᴜ 👨🏻‍💻
 <h1 align="center"
  
-### 🚩🚩 जय बजरंग बली 🚩🚩
+### 🚩🚩▪️▪️ 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗜𝗦𝗧𝗞𝗛𝗔𝗥 ▪️▪️
 <h1 align="center"
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗥𝗔𝗨𝗦𝗛𝗔𝗡+𝗞𝗜𝗡𝗚+𝗔𝗥𝗔+🚩+🍁"></b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗜𝗦𝗧𝗞𝗛𝗔𝗥+𝗞𝗜𝗡𝗚+𝗕𝗜𝗛𝗔𝗥+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>𝐓ᴇᴀᴍ 𝐏ᴜʀᴠɪ 𝐁ᴏᴛs</b></h1>
-<p align="center"><a href="https://ll_ALPHA_BABY_lll"><img src="https://telegra.ph/file/207afbc175113d14d1231.jpg" width="400"></a></p>
+<h1 align="center"><b>𝐓ᴇᴀᴍ 𝐓ʜᴜɴᴅᴇʀ 𝐁ᴏᴛs</b></h1>
+<p align="center"><a href="https://ll_ISTKHAR_BABY_lll"><img src="https://files.catbox.moe/1ja81y.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=SONALI_MUSIC&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-ISTKHAR &repo=PURVI_MUSIC&theme=flag-india)
 
-[![GIF](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/TEAMPURVI)
-   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
+[![GIF](https://github.com/TEAM-ISTKHAR/MUSARRAT/blob/main/TEAM-ISTKHAR.gif)](https://github.com/TEAM-ISTKHAR)
+   [![ISTKHAR](https://github-stats-alpha.vercel.app/api?username=TEAM-ISTKHAR "ISTKHAR")](https://github-stats-alpha.vercel.app/api?username=TEAM-ISTKHAR "ISTKHAR")
 
 
-GO TO [RELOAD.PY](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/SONALI/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+GO TO [RELOAD.PY](https://github.com/TEAM-ISTKHAR/MUSARRAT_MUSIC/blob/main/MUSARRAT/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 </p>
 ʀᴀᴜsʜᴀɴ
@@ -37,12 +37,12 @@ GO TO [RELOAD.PY](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/SONALI/plu
 
 
 
-<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMPURVI&show_icons=true&locale=en&layout=compact" alt="ʀᴀᴊᴀ ʙᴀʙᴜ" /></p>
+<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAM-ISTKHAR &show_icons=true&locale=en&layout=compact" alt="ɪsᴛᴋʜᴀʀ ʙᴀʙᴜ" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/SONALI_MUSIC)](https://github.com/TEAMPURVI/SONALI_MUSIC/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=TEAM-ISTKHAR/MUSARRAT _MUSIC)](https://github.com/TEAM-ISTKHAR/MUSARRAT_MUSIC/graphs/contributors)
 
 ### Contact :
-<a href="https://t.me/ll_ALPHA_BABY_lll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/ll_ISTKHAR_BABY_lll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=raushankumarpal03com@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
